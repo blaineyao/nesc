@@ -1,6 +1,6 @@
 nesC
 ====
-
+之前一直在用TinyOS,又想学习编译原理，故以此作为project学习.
 **nesC** (pronounced "NES-see") is an extension to the C programming language
 designed to embody the structuring concepts and execution model of TinyOS.
 TinyOS is an event-driven operating system designed for sensor network nodes
